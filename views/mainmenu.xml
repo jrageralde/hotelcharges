@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+
 <odoo>
     <menuitem name="Hotel" id="hotel_menu_root"/>
     <menuitem name="Guest Registration" id="hotel_menu_guest_registration" sequence="1" parent="hotel_menu_root"/>
