@@ -8,6 +8,6 @@ class charges(models.Model):
     _name = 'hotel.charges'
     _description = 'hotel charges master list'
 
-    title = fields.Char("Title")
+    name = fields.Char("Title")
     description = fields.Char("Description")
 
